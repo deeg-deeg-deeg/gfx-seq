@@ -1,7 +1,7 @@
 # GFX-SEQ
 a graphics based sequenzer for the Monome Norns environment
 
-an overview can be found below or as a PDF at "github.com/deeg-deeg-deeg/manuals"
+an overview can be found below or as a PDF at <a href="github.com/deeg-deeg-deeg/manuals">github.com/deeg-deeg-deeg/manuals"</a>
 
 "GFX-SEQ" <br>
 Graphic-Pattern Sequencer <br>
