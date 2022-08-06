@@ -3,24 +3,24 @@ a graphics based sequenzer for the Monome Norns environment
 
 an overview can be found below or as a PDF at "github.com/deeg-deeg-deeg/manuals"
 
--- "GFX-SEQ" 
---  Graphic-Pattern Sequencer 
---  by deeg
---
--- @deeg_deeg_deeg
---
--- github.com/deeg-deeg-deeg
---
--- ENC 1: assignable via 
---        parameter
---        "ENC 01 FUNCT"
--- ENC 2: choose parameter
--- ENC 3: change selected 
---        parameter
---
--- KEY 2: switch between
---        screens
--- KEY 3: reset "y" value to 0
+"GFX-SEQ" 
+Graphic-Pattern Sequencer 
+by deeg
+
+@deeg_deeg_deeg
+
+github.com/deeg-deeg-deeg
+
+ENC 1: assignable via 
+       parameter
+       "ENC 01 FUNCT"
+ENC 2: choose parameter
+ENC 3: change selected 
+       parameter
+
+KEY 2: switch between
+       screens
+KEY 3: reset "y" value to 0
 
 
 this script is published under the MIT license (see at the end)
