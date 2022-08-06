@@ -3,13 +3,13 @@ a graphics based sequenzer for the Monome Norns environment
 
 an overview can be found below or as a PDF at "github.com/deeg-deeg-deeg/manuals"
 
-"GFX-SEQ" 
-Graphic-Pattern Sequencer 
-by deeg
-
-@deeg_deeg_deeg
-
-github.com/deeg-deeg-deeg <br>
+"GFX-SEQ" <br>
+Graphic-Pattern Sequencer <br>
+by deeg<br>
+<br>
+@deeg_deeg_deeg<br>
+<br>
+<a>github.com/deeg-deeg-deeg</a> <br>
 <br>
 ENC 1: assignable via <br>
        parameter<br>
