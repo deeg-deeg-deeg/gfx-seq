@@ -1,2 +1,3 @@
-# gfx-seq
-graphics based sequenzer for Norns
+# GFX-SEQ
+a graphics based sequenzer for the Monome Norns environment
+
