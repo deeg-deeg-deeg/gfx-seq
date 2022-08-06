@@ -9,7 +9,7 @@ by deeg<br>
 <br>
 @deeg_deeg_deeg<br>
 <br>
-<a>github.com/deeg-deeg-deeg</a> <br>
+<a href="github.com/deeg-deeg-deeg">github.com/deeg-deeg-deeg</a> <br>
 <br>
 ENC 1: assignable via <br>
        parameter<br>
