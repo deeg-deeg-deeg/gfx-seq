@@ -10,18 +10,18 @@ by deeg
 @deeg_deeg_deeg
 
 github.com/deeg-deeg-deeg <br>
-
-ENC 1: assignable via 
-       parameter
-       "ENC 01 FUNCT"
-ENC 2: choose parameter
-ENC 3: change selected 
-       parameter
-
-KEY 2: switch between
-       screens
-KEY 3: reset "y" value to 0
-
+<br>
+ENC 1: assignable via <br>
+       parameter<br>
+       "ENC 01 FUNCT"<br>
+ENC 2: choose parameter<br>
+ENC 3: change selected <br>
+       parameter<br>
+<br>
+KEY 2: switch between<br>
+       screens<br>
+KEY 3: reset "y" value to 0<br>
+<br>
 
 this script is published under the MIT license (see at the end)
 
