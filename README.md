@@ -1,7 +1,8 @@
 # GFX-SEQ
 a graphics based sequenzer for the Monome Norns environment
 
-an overview can be found below or as a PDF at <a href="https://github.com/deeg-deeg-deeg/manuals">https://github.com/deeg-deeg-deeg/manuals</a>
+an overview can be found below or as a PDF at <a href="https://github.com/deeg-deeg-deeg/manuals">https://github.com/deeg-deeg-deeg/manuals</a><br>
+a max4live device to receive osc messages from gfx-seq can be downloaded here: <a href="https://github.com/deeg-deeg-deeg/m4l_gfx_seq">https://github.com/deeg-deeg-deeg/m4l_gfx_seq</a>
 
 "GFX-SEQ" <br>
 Graphic-Pattern Sequencer <br>
