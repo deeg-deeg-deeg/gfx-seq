@@ -26,6 +26,8 @@ KEY 3: reset "y" value to 0<br>
 
 this script is published under the MIT license (see at the end)
 
+UPDATE: Added better MIDI support. You can select midi device and channel to send on via the EDIT menu.
+
 -----------------------------------------
 
 
