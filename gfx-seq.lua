@@ -258,7 +258,7 @@ function init()
   params:add_control("lfo02target", "LFO02 Target", controlspec.new(1, 11, "lin", 1, 9, ""))
   params:add_control("lfo02amnt", "LFO02 Amount", controlspec.new(0, 100, "lin", 0, 0, ""))
   
-  params:add_option("midisend","Send MIDI",{"ON", "OFF"},1)  
+  params:add_option("midisend","Send MIDI",{"OFF", "ON"},1)  
   params:add_control("midisleep", "MIDI Note sleep", controlspec.new(0, 10, "lin", 0, 0, ""))
   
   params:add_control("wwidth", "X-Width", controlspec.new(0, 127, "lin", 1, 127, ""))
